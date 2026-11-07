@@ -4454,7 +4454,9 @@ class GermanPortalApp {
       });
     });
 
-    document.querySelectorAll('[data-nav]').forEach(el => {
+    // Scope to the main content only; the sidebar [data-nav] items already
+    // have their own handler (otherwise a second handler fires on every sidebar click)
+    document.querySelectorAll('#mainContent [data-nav]').forEach(el => {
       el.addEventListener('click', (e) => {
         const target = el.getAttribute('data-nav');
         this.navigate(target);
