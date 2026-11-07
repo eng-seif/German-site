@@ -581,7 +581,9 @@ class GermanPortalApp {
       });
     });
 
-    document.querySelectorAll('[data-nav]').forEach(el => {
+    // Scope to the main content only; the sidebar [data-nav] items already
+    // have their own handler (otherwise a second handler fires on every sidebar click)
+    document.querySelectorAll('#mainContent [data-nav]').forEach(el => {
       el.addEventListener('click', (e) => {
         const target = el.getAttribute('data-nav');
         this.navigate(target);
@@ -803,6 +805,7 @@ class GermanPortalApp {
         else if (v.gender === 'das') { genderClass = 'gender-das'; genderLabel = 'das'; }
         else if (v.type === 'Verb') { genderClass = 'gender-verb'; genderLabel = 'Verb'; }
         else if (v.type === 'Adjektiv') { genderClass = 'gender-adj'; genderLabel = 'Adj'; }
+        else if (v.gender === '-') { genderClass = 'gender-other'; genderLabel = v.type === 'Ausdruck' ? 'Ausdruck' : v.type; }
 
         vocabCardsHtml += `
           <div class="vocab-card">

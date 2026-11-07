@@ -682,6 +682,358 @@ const GERMAN_A2_DATA = {
           "meaning": "حامض / غاضب",
           "example": "Die Zitrone schmeckt sehr sauer.",
           "example_ar": "الليمون طعمه حامض جداً."
+        },
+        {
+          "word": "geboren sein",
+          "plural": "ist geboren",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون مولوداً (وُلد)"
+        },
+        {
+          "word": "romantisch",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "رومانسي"
+        },
+        {
+          "word": "der Augenoptiker / die Augenoptikerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "أخصائي / أخصائية بصريات"
+        },
+        {
+          "word": "der Bankkaufmann / die Bankkauffrau",
+          "plural": "die Bankkaufleute / -frauen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "موظف / موظفة مصرف"
+        },
+        {
+          "word": "Biologie",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "علم الأحياء",
+          "example": "Ich studiere Biologie.",
+          "example_ar": "أدرس علم الأحياء."
+        },
+        {
+          "word": "Mathematik / Mathe",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "الرياضيات"
+        },
+        {
+          "word": "beenden",
+          "plural": "beendet, hat beendet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينهي / يُنهي"
+        },
+        {
+          "word": "die Arbeit",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "العمل / الشغل",
+          "example": "Das war viel Arbeit.",
+          "example_ar": "كان ذلك عملاً كثيراً."
+        },
+        {
+          "word": "das Stadtzentrum",
+          "plural": "die Stadtzentren",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "وسط المدينة"
+        },
+        {
+          "word": "auf dem Land leben",
+          "plural": "lebt, hat gelebt",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يعيش في الريف"
+        },
+        {
+          "word": "weitersuchen",
+          "plural": "sucht weiter, hat weitergesucht",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يواصل البحث"
+        },
+        {
+          "word": "zusammenleben",
+          "plural": "lebt zusammen, hat zusammengelebt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعيش مع الآخرين / يتشارك السكن"
+        },
+        {
+          "word": "absagen",
+          "plural": "sagt ab, hat abgesagt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يلغي / يعتذر عن الحضور"
+        },
+        {
+          "word": "zusagen",
+          "plural": "sagt zu, hat zugesagt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يؤكد حضوره / يوافق"
+        },
+        {
+          "word": "einen Plan ändern",
+          "plural": "ändert, hat geändert",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يغيّر الخطة"
+        },
+        {
+          "word": "der Verein",
+          "plural": "die Vereine",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "النادي / الجمعية"
+        },
+        {
+          "word": "sich anmelden",
+          "plural": "meldet sich an, hat sich angemeldet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يسجّل نفسه / يشترك"
+        },
+        {
+          "word": "gemeinsam",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مشترك / معاً"
+        },
+        {
+          "word": "organisieren",
+          "plural": "organisiert, hat organisiert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينظّم"
+        },
+        {
+          "word": "der Flohmarkt",
+          "plural": "die Flohmärkte",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "سوق السلع المستعملة"
+        },
+        {
+          "word": "liegen",
+          "plural": "liegt, hat gelegen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستلقي / يقع",
+          "example": "Er liegt am Wochenende gern auf dem Sofa.",
+          "example_ar": "هو يحب الاستلقاء على الأريكة في عطلة نهاية الأسبوع."
+        },
+        {
+          "word": "das Pferd",
+          "plural": "die Pferde",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الحصان"
+        },
+        {
+          "word": "reiten",
+          "plural": "reitet, ist geritten",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يركب الخيل"
+        },
+        {
+          "word": "der Aufenthalt",
+          "plural": "die Aufenthalte",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الإقامة / المكوث"
+        },
+        {
+          "word": "der Eingang",
+          "plural": "die Eingänge",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المدخل"
+        },
+        {
+          "word": "empfangen",
+          "plural": "empfängt, hat empfangen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستقبل"
+        },
+        {
+          "word": "der Platz",
+          "plural": "die Plätze",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المكان / المقعد / المركز (في مسابقة)",
+          "example": "Ein Kellner führt Sie zum Platz.",
+          "example_ar": "يرشدك نادل إلى مكانك."
+        },
+        {
+          "word": "sich informieren (über + A.)",
+          "plural": "informiert sich, hat sich informiert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستعلم / يطّلع على"
+        },
+        {
+          "word": "spätestens",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "في موعد أقصاه / على أبعد تقدير",
+          "example": "Ich komme spätestens um drei Uhr.",
+          "example_ar": "سآتي في موعد أقصاه الساعة الثالثة."
+        },
+        {
+          "word": "bitter",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مرّ (طعم)"
+        },
+        {
+          "word": "sauer",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "حامض (طعم)"
+        },
+        {
+          "word": "das WC",
+          "plural": "die WCs",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "دورة المياه / المرحاض"
+        },
+        {
+          "word": "weiterhelfen",
+          "plural": "hilft weiter, hat weitergeholfen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يساعد / يفيد"
+        },
+        {
+          "word": "aus sein",
+          "plural": "ist aus",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون مُطفأً / مغلقاً",
+          "example": "Handys müssen aus sein.",
+          "example_ar": "يجب أن تكون الهواتف مغلقة."
+        },
+        {
+          "word": "die Zigarette",
+          "plural": "die Zigaretten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "السيجارة"
+        },
+        {
+          "word": "fühlen",
+          "plural": "fühlt, hat gefühlt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يشعر / يحسّ"
+        },
+        {
+          "word": "der Gegenstand",
+          "plural": "die Gegenstände",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الشيء / الغرض"
+        },
+        {
+          "word": "der Sinn",
+          "plural": "die Sinne",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الحاسّة / المعنى"
+        },
+        {
+          "word": "zuhören",
+          "plural": "hört zu, hat zugehört",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستمع إلى"
+        },
+        {
+          "word": "das Handy",
+          "plural": "die Handys",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الهاتف المحمول"
+        },
+        {
+          "word": "fast",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "تقريباً"
+        },
+        {
+          "word": "also",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "إذاً / يعني",
+          "example": "Meine Mutter ist Italienerin, mein Vater ist Österreicher. Ich habe also zwei Muttersprachen.",
+          "example_ar": "أمي إيطالية وأبي نمساوي، إذاً لدي لغتان أمّ."
+        },
+        {
+          "word": "eine Sprache fließend sprechen",
+          "plural": "spricht, hat gesprochen",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يتحدث لغة بطلاقة"
+        },
+        {
+          "word": "begründen",
+          "plural": "begründet, hat begründet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعلّل / يبرّر"
+        },
+        {
+          "word": "rufen",
+          "plural": "ruft, hat gerufen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينادي / يستدعي"
+        },
+        {
+          "word": "ganz am Ende",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "في النهاية تماماً"
+        },
+        {
+          "word": "Mal sehen.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "لنرَ / سنرى"
+        },
+        {
+          "word": "weil",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "لأنّ (ربط جملة سببية)",
+          "example": "Marvin kommt später, weil er arbeiten muss.",
+          "example_ar": "مارفين سيأتي لاحقاً لأنه يجب أن يعمل."
         }
       ],
       "quiz": [
@@ -1389,6 +1741,595 @@ const GERMAN_A2_DATA = {
           "meaning": "اجتماعي / إنساني",
           "example": "Freiwillige Arbeit in einem sozialen Projekt macht Freude.",
           "example_ar": "العمل التطوعي في مشروع اجتماعي يبعث على السعادة."
+        },
+        {
+          "word": "der Schulabschluss",
+          "plural": "die Schulabschlüsse",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "شهادة إتمام المدرسة"
+        },
+        {
+          "word": "der Direktor / die Direktorin",
+          "plural": "die Direktoren / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "مدير / مديرة (المدرسة)"
+        },
+        {
+          "word": "der Schüler / die Schülerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "تلميذ / تلميذة"
+        },
+        {
+          "word": "die Klasse",
+          "plural": "die Klassen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الصف / الفصل / الدرجة (في القطار)",
+          "example": "Die Lehrerin steht vor der Klasse.",
+          "example_ar": "المعلمة تقف أمام الصف."
+        },
+        {
+          "word": "das Klassenzimmer",
+          "plural": "die Klassenzimmer",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "غرفة الصف"
+        },
+        {
+          "word": "die Unterrichtszeit",
+          "plural": "die Unterrichtszeiten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "وقت الدرس"
+        },
+        {
+          "word": "der Stundenplan",
+          "plural": "die Stundenpläne",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الجدول الدراسي"
+        },
+        {
+          "word": "die Fremdsprache",
+          "plural": "die Fremdsprachen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "لغة أجنبية"
+        },
+        {
+          "word": "die Cafeteria",
+          "plural": "die Cafeterien",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الكافتيريا / المقصف"
+        },
+        {
+          "word": "der Schulweg",
+          "plural": "die Schulwege",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الطريق إلى المدرسة"
+        },
+        {
+          "word": "die Klassenfahrt",
+          "plural": "die Klassenfahrten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "رحلة مدرسية"
+        },
+        {
+          "word": "die Ferien",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "العطلة / الإجازة (جمع)"
+        },
+        {
+          "word": "üben",
+          "plural": "übt, hat geübt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتدرّب / يتمرّن"
+        },
+        {
+          "word": "der Vokabeltest",
+          "plural": "die Vokabeltests",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "اختبار المفردات"
+        },
+        {
+          "word": "das Fach",
+          "plural": "die Fächer",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "المادة الدراسية",
+          "example": "Mein Lieblingsfach war Mathe.",
+          "example_ar": "مادتي المفضلة كانت الرياضيات."
+        },
+        {
+          "word": "Chemie",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "الكيمياء"
+        },
+        {
+          "word": "Geografie",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "الجغرافيا"
+        },
+        {
+          "word": "Geschichte",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "التاريخ"
+        },
+        {
+          "word": "Informatik",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "علوم الحاسوب"
+        },
+        {
+          "word": "Latein",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "اللغة اللاتينية"
+        },
+        {
+          "word": "Kunsterziehung / Kunst",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "التربية الفنية / الفن"
+        },
+        {
+          "word": "Physik",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "الفيزياء"
+        },
+        {
+          "word": "Sozialkunde",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "التربية الاجتماعية / المدنية"
+        },
+        {
+          "word": "Wirtschaft",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "الاقتصاد"
+        },
+        {
+          "word": "die AG",
+          "plural": "die AGs",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "مجموعة أنشطة مدرسية (Arbeitsgemeinschaft)"
+        },
+        {
+          "word": "die Hauptschule",
+          "plural": "die Hauptschulen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المدرسة الأساسية (مسار مدرسي ينتهي بعد الصف 9)"
+        },
+        {
+          "word": "die Realschule",
+          "plural": "die Realschulen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المدرسة المتوسطة (مسار مدرسي حتى الصف 10)"
+        },
+        {
+          "word": "die Gesamtschule",
+          "plural": "die Gesamtschulen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المدرسة الشاملة"
+        },
+        {
+          "word": "die Berufsschule",
+          "plural": "die Berufsschulen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المدرسة المهنية"
+        },
+        {
+          "word": "das Schulsystem",
+          "plural": "die Schulsysteme",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "النظام المدرسي"
+        },
+        {
+          "word": "das Bundesland",
+          "plural": "die Bundesländer",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الولاية الاتحادية"
+        },
+        {
+          "word": "die Arzthelferin",
+          "plural": "die Arzthelferinnen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "مساعدة طبيب (ممرضة عيادة)"
+        },
+        {
+          "word": "das Au-pair",
+          "plural": "die Au-pairs",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "مربية أطفال أجنبية تقيم مع الأسرة (أو-بير)"
+        },
+        {
+          "word": "der Englischlehrer",
+          "plural": "die Englischlehrer",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "مدرّس اللغة الإنجليزية"
+        },
+        {
+          "word": "der Gärtner / die Gärtnerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "بستاني / بستانية"
+        },
+        {
+          "word": "der Grafiker",
+          "plural": "die Grafiker",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "مصمّم جرافيك"
+        },
+        {
+          "word": "die Krankenschwester",
+          "plural": "die Krankenschwestern",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "ممرضة"
+        },
+        {
+          "word": "die Arbeitswelt",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "عالم العمل"
+        },
+        {
+          "word": "der / die Auszubildende",
+          "plural": "die Auszubildenden",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المتدرّب / المتدرّبة (في تدريب مهني)"
+        },
+        {
+          "word": "der Azubi",
+          "plural": "die Azubis",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المتدرّب (اختصار Auszubildender)"
+        },
+        {
+          "word": "die Lehre",
+          "plural": "die Lehren",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "فترة التدريب المهني"
+        },
+        {
+          "word": "die Erfahrung",
+          "plural": "die Erfahrungen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الخبرة / التجربة"
+        },
+        {
+          "word": "das Berufsleben",
+          "plural": "-",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الحياة المهنية"
+        },
+        {
+          "word": "das Handwerk",
+          "plural": "-",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الحِرف اليدوية"
+        },
+        {
+          "word": "jobben",
+          "plural": "jobbt, hat gejobbt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعمل عملاً جانبياً / مؤقتاً"
+        },
+        {
+          "word": "die Messe",
+          "plural": "die Messen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المعرض التجاري"
+        },
+        {
+          "word": "die Arztpraxis",
+          "plural": "die Arztpraxen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "عيادة الطبيب"
+        },
+        {
+          "word": "das Reisebüro",
+          "plural": "die Reisebüros",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "مكتب سفر"
+        },
+        {
+          "word": "die Werbeagentur",
+          "plural": "die Werbeagenturen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "وكالة إعلانات"
+        },
+        {
+          "word": "Jura",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "القانون (كتخصص دراسي)",
+          "example": "Sie hat Jura studiert.",
+          "example_ar": "هي درست القانون."
+        },
+        {
+          "word": "Medizin",
+          "plural": "-",
+          "gender": "-",
+          "type": "Nomen",
+          "meaning": "الطب (كتخصص)"
+        },
+        {
+          "word": "eine Vorlesung besuchen",
+          "plural": "besucht, hat besucht",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يحضر محاضرة"
+        },
+        {
+          "word": "witzig",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مضحك / ظريف"
+        },
+        {
+          "word": "furchtbar",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "فظيع / مروّع"
+        },
+        {
+          "word": "schlecht",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "سيّئ",
+          "example": "Ich finde das nicht schlecht.",
+          "example_ar": "لا أراه سيئاً."
+        },
+        {
+          "word": "Das sehe ich anders.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أنا أرى ذلك بشكل مختلف."
+        },
+        {
+          "word": "Das war bei mir auch so.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "كان الأمر كذلك معي أيضاً."
+        },
+        {
+          "word": "die Hauptsache",
+          "plural": "die Hauptsachen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الشيء الأهم",
+          "example": "Hauptsache, es macht Spaß.",
+          "example_ar": "المهم أن يكون ممتعاً."
+        },
+        {
+          "word": "überraschen",
+          "plural": "überrascht, hat überrascht",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يفاجئ"
+        },
+        {
+          "word": "überrascht sein",
+          "plural": "ist überrascht",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون متفاجئاً"
+        },
+        {
+          "word": "die Gemeinsamkeit",
+          "plural": "die Gemeinsamkeiten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "القاسم المشترك / نقطة تشابه"
+        },
+        {
+          "word": "der Unterschied",
+          "plural": "die Unterschiede",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الفرق"
+        },
+        {
+          "word": "wahrscheinlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "على الأرجح"
+        },
+        {
+          "word": "wenigstens",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "على الأقل"
+        },
+        {
+          "word": "ziemlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "إلى حدّ كبير / نوعاً ما"
+        },
+        {
+          "word": "zum Beispiel",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "على سبيل المثال"
+        },
+        {
+          "word": "ausschlafen",
+          "plural": "schläft aus, hat ausgeschlafen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينام حتى يشبع من النوم"
+        },
+        {
+          "word": "die Behinderung",
+          "plural": "die Behinderungen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الإعاقة"
+        },
+        {
+          "word": "der Rollstuhl",
+          "plural": "die Rollstühle",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الكرسي المتحرك"
+        },
+        {
+          "word": "ehrlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "صادق / بصراحة",
+          "example": "Ich musste nie Hausaufgaben machen. – Ehrlich?",
+          "example_ar": "لم أضطر يوماً لحل واجبات. – حقاً؟"
+        },
+        {
+          "word": "die Erholung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الاستجمام / الراحة"
+        },
+        {
+          "word": "die Weltreise",
+          "plural": "die Weltreisen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "رحلة حول العالم"
+        },
+        {
+          "word": "erwachsen",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "بالغ / راشد"
+        },
+        {
+          "word": "sozial",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "اجتماعي"
+        },
+        {
+          "word": "die Grafik",
+          "plural": "die Grafiken",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الرسم البياني / الصورة التوضيحية",
+          "example": "Sehen Sie die Grafik an.",
+          "example_ar": "انظروا إلى الرسم البياني."
+        },
+        {
+          "word": "heute",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "اليوم / حتى اليوم",
+          "example": "Mit vielen Freunden habe ich heute noch Kontakt.",
+          "example_ar": "ما زلت على تواصل مع كثير من الأصدقاء حتى اليوم."
+        },
+        {
+          "word": "erst mal",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أولاً / في البداية"
+        },
+        {
+          "word": "paar",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بضعة / قليل من",
+          "example": "Alle paar Wochen habe ich frei.",
+          "example_ar": "كل بضعة أسابيع أحصل على إجازة."
+        },
+        {
+          "word": "der Kontakt",
+          "plural": "die Kontakte",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "التواصل / الاتصال",
+          "example": "Meine Freunde und ich haben viel Kontakt.",
+          "example_ar": "أنا وأصدقائي على تواصل كبير."
+        },
+        {
+          "word": "verlieren",
+          "plural": "verliert, hat verloren",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يخسر / يفقد"
+        },
+        {
+          "word": "je",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "لكل / في كل مرة",
+          "example": "Notieren Sie je zwei Wörter.",
+          "example_ar": "دوّن كلمتين لكل واحدة."
         }
       ],
       "quiz": [
@@ -2143,6 +3084,546 @@ const GERMAN_A2_DATA = {
           "meaning": "حتماً / لا بد / بالتأكيد",
           "example": "Du musst diesen Film unbedingt ansehen!",
           "example_ar": "يجب عليك حتماً أن تشاهد هذا الفيلم!"
+        },
+        {
+          "word": "das E-Book",
+          "plural": "die E-Books",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الكتاب الإلكتروني"
+        },
+        {
+          "word": "der E-Book-Reader",
+          "plural": "die E-Book-Reader",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "قارئ الكتب الإلكترونية"
+        },
+        {
+          "word": "der Laptop",
+          "plural": "die Laptops",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الحاسوب المحمول"
+        },
+        {
+          "word": "das Radio",
+          "plural": "die Radios",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الراديو / المذياع"
+        },
+        {
+          "word": "die Spielekonsole",
+          "plural": "die Spielekonsolen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "جهاز ألعاب الفيديو"
+        },
+        {
+          "word": "das Tablet",
+          "plural": "die Tablets",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الجهاز اللوحي (تابلت)"
+        },
+        {
+          "word": "das Kabel",
+          "plural": "die Kabel",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الكابل / السلك"
+        },
+        {
+          "word": "der Lautsprecher",
+          "plural": "die Lautsprecher",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "مكبّر الصوت"
+        },
+        {
+          "word": "die Webseite",
+          "plural": "die Webseiten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "صفحة / موقع إنترنت"
+        },
+        {
+          "word": "der Link",
+          "plural": "die Links",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الرابط"
+        },
+        {
+          "word": "in Kontakt bleiben",
+          "plural": "bleibt, ist geblieben",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يبقى على تواصل"
+        },
+        {
+          "word": "an sein",
+          "plural": "ist an",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون مُشغَّلاً / مفتوحاً",
+          "example": "Mein Handy ist immer an.",
+          "example_ar": "هاتفي مفتوح دائماً."
+        },
+        {
+          "word": "anklicken",
+          "plural": "klickt an, hat angeklickt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينقر على"
+        },
+        {
+          "word": "tippen",
+          "plural": "tippt, hat getippt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يكتب (على لوحة المفاتيح) / ينقر"
+        },
+        {
+          "word": "checken",
+          "plural": "checkt, hat gecheckt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتفقّد / يطّلع على",
+          "example": "Ich checke meine Mails.",
+          "example_ar": "أتفقد بريدي الإلكتروني."
+        },
+        {
+          "word": "kopieren",
+          "plural": "kopiert, hat kopiert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينسخ"
+        },
+        {
+          "word": "mailen",
+          "plural": "mailt, hat gemailt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يرسل بريداً إلكترونياً"
+        },
+        {
+          "word": "senden",
+          "plural": "sendet, hat gesendet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يرسل"
+        },
+        {
+          "word": "bloggen",
+          "plural": "bloggt, hat gebloggt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يكتب مدوّنة"
+        },
+        {
+          "word": "der Blogbeitrag",
+          "plural": "die Blogbeiträge",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "تدوينة / مقال في مدونة"
+        },
+        {
+          "word": "chatten",
+          "plural": "chattet, hat gechattet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يدردش"
+        },
+        {
+          "word": "Fotos teilen",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يشارك الصور"
+        },
+        {
+          "word": "der Vergleich",
+          "plural": "die Vergleiche",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المقارنة"
+        },
+        {
+          "word": "leicht",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "خفيف / سهل"
+        },
+        {
+          "word": "als",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "من (في المقارنة)",
+          "example": "Das Tablet ist leichter als der Laptop.",
+          "example_ar": "الجهاز اللوحي أخف من الحاسوب المحمول."
+        },
+        {
+          "word": "wie",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "مثل / كـ (في المقارنة)",
+          "example": "Der Laptop ist nicht so leicht wie das Tablet.",
+          "example_ar": "الحاسوب المحمول ليس خفيفاً مثل الجهاز اللوحي."
+        },
+        {
+          "word": "genauso",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بالقدر نفسه / تماماً مثل",
+          "example": "Der Laptop ist genauso praktisch wie das Tablet.",
+          "example_ar": "الحاسوب المحمول عملي مثل الجهاز اللوحي تماماً."
+        },
+        {
+          "word": "das Start-up",
+          "plural": "die Start-ups",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "شركة ناشئة"
+        },
+        {
+          "word": "gründen",
+          "plural": "gründet, hat gegründet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يؤسّس"
+        },
+        {
+          "word": "ein Start-up gründen",
+          "plural": "gründet, hat gegründet",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يؤسّس شركة ناشئة"
+        },
+        {
+          "word": "der / die Studierende",
+          "plural": "die Studierenden",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الطالب / الطالبة الجامعي"
+        },
+        {
+          "word": "entwickeln",
+          "plural": "entwickelt, hat entwickelt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يطوّر",
+          "example": "Wir entwickeln eine App.",
+          "example_ar": "نحن نطوّر تطبيقاً."
+        },
+        {
+          "word": "programmieren",
+          "plural": "programmiert, hat programmiert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يبرمج"
+        },
+        {
+          "word": "kommentieren",
+          "plural": "kommentiert, hat kommentiert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعلّق على"
+        },
+        {
+          "word": "meinen",
+          "plural": "meint, hat gemeint",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعتقد / يقصد"
+        },
+        {
+          "word": "mitteilen",
+          "plural": "teilt mit, hat mitgeteilt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يُبلغ / يُخبر"
+        },
+        {
+          "word": "kritisch",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "ناقد / نقدي"
+        },
+        {
+          "word": "blöd",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "غبي / سخيف"
+        },
+        {
+          "word": "privat",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "خاص / شخصي",
+          "example": "Das ist privat.",
+          "example_ar": "هذا أمر خاص."
+        },
+        {
+          "word": "dass",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أنّ (ربط جملة)",
+          "example": "Ich finde, dass das gut ist.",
+          "example_ar": "أرى أن هذا جيد."
+        },
+        {
+          "word": "der Actionfilm",
+          "plural": "die Actionfilme",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "فيلم أكشن"
+        },
+        {
+          "word": "der Fantasy-Film",
+          "plural": "die Fantasy-Filme",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "فيلم فانتازيا (خيال)"
+        },
+        {
+          "word": "der Liebesfilm",
+          "plural": "die Liebesfilme",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "فيلم رومانسي"
+        },
+        {
+          "word": "der Thriller",
+          "plural": "die Thriller",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "فيلم إثارة"
+        },
+        {
+          "word": "die Filmmusik",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "موسيقى الفيلم"
+        },
+        {
+          "word": "Worum geht es im Film?",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "عمّ يدور الفيلم؟"
+        },
+        {
+          "word": "die Hauptperson",
+          "plural": "die Hauptpersonen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الشخصية الرئيسية"
+        },
+        {
+          "word": "der Humor",
+          "plural": "-",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "روح الدعابة / الفكاهة"
+        },
+        {
+          "word": "spielen",
+          "plural": "spielt, hat gespielt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يلعب / تدور أحداثه (في مكان)",
+          "example": "Der Film spielt in Berlin.",
+          "example_ar": "يدور الفيلم في برلين."
+        },
+        {
+          "word": "einfach",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "ببساطة / بكل بساطة / سهل",
+          "example": "Der Film war einfach toll.",
+          "example_ar": "كان الفيلم رائعاً بكل بساطة."
+        },
+        {
+          "word": "logisch",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "منطقي"
+        },
+        {
+          "word": "real",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "واقعي / حقيقي"
+        },
+        {
+          "word": "gewinnen",
+          "plural": "gewinnt, hat gewonnen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يفوز / يكسب"
+        },
+        {
+          "word": "lachen",
+          "plural": "lacht, hat gelacht",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يضحك"
+        },
+        {
+          "word": "weinen",
+          "plural": "weint, hat geweint",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يبكي"
+        },
+        {
+          "word": "flüstern",
+          "plural": "flüstert, hat geflüstert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يهمس"
+        },
+        {
+          "word": "dumm",
+          "plural": "dümmer, am dümmsten",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "غبي"
+        },
+        {
+          "word": "fröhlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مرح / سعيد"
+        },
+        {
+          "word": "nah",
+          "plural": "näher, am nächsten",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "قريب"
+        },
+        {
+          "word": "schwierig",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "صعب"
+        },
+        {
+          "word": "still",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "هادئ / ساكن"
+        },
+        {
+          "word": "vorsichtig",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "حذر / بحذر"
+        },
+        {
+          "word": "der Enkel / die Enkelin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الحفيد / الحفيدة"
+        },
+        {
+          "word": "die Freundschaft",
+          "plural": "die Freundschaften",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الصداقة"
+        },
+        {
+          "word": "die Kindheit",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الطفولة"
+        },
+        {
+          "word": "das Schicksal",
+          "plural": "die Schicksale",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "القدر / المصير"
+        },
+        {
+          "word": "die Sorge",
+          "plural": "die Sorgen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "القلق / الهمّ",
+          "example": "Ich habe Sorgen.",
+          "example_ar": "لدي هموم / أنا قلق."
+        },
+        {
+          "word": "sterben",
+          "plural": "stirbt, ist gestorben",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يموت"
+        },
+        {
+          "word": "tot",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "ميّت"
+        },
+        {
+          "word": "das Tier",
+          "plural": "die Tiere",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الحيوان"
+        },
+        {
+          "word": "manche / mancher",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بعض / بعضهم"
+        },
+        {
+          "word": "mehrmals",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "عدّة مرات"
+        },
+        {
+          "word": "plötzlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "فجأة / مفاجئ"
+        },
+        {
+          "word": "zuletzt",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أخيراً / في النهاية"
         }
       ],
       "quiz": [
@@ -2844,6 +4325,532 @@ const GERMAN_A2_DATA = {
           "meaning": "حول العالم / عالمي",
           "example": "Das Unternehmen verkauft seine Produkte weltweit.",
           "example_ar": "تبيع الشركة منتجاتها حول العالم."
+        },
+        {
+          "word": "die Geburt",
+          "plural": "die Geburten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الولادة / الميلاد"
+        },
+        {
+          "word": "schmücken",
+          "plural": "schmückt, hat geschmückt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يزيّن"
+        },
+        {
+          "word": "die Geburtstagsparty",
+          "plural": "die Geburtstagspartys",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "حفلة عيد ميلاد"
+        },
+        {
+          "word": "der Schultag",
+          "plural": "die Schultage",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "يوم دراسي",
+          "example": "Heute ist der erste Schultag.",
+          "example_ar": "اليوم هو أول يوم دراسي."
+        },
+        {
+          "word": "der Club",
+          "plural": "die Clubs",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "النادي / الملهى"
+        },
+        {
+          "word": "der Ring",
+          "plural": "die Ringe",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الخاتم"
+        },
+        {
+          "word": "der Sieg",
+          "plural": "die Siege",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الفوز / النصر"
+        },
+        {
+          "word": "die Medaille",
+          "plural": "die Medaillen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الميدالية"
+        },
+        {
+          "word": "dabei sein",
+          "plural": "ist dabei",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون حاضراً / مشاركاً"
+        },
+        {
+          "word": "die Glückwunschkarte",
+          "plural": "die Glückwunschkarten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "بطاقة تهنئة"
+        },
+        {
+          "word": "die Karte",
+          "plural": "die Karten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "البطاقة / القائمة / الخريطة"
+        },
+        {
+          "word": "Wie schön!",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "ما أجمل ذلك!",
+          "example": "Wie schön, ihr heiratet!",
+          "example_ar": "ما أجمل ذلك، ستتزوجون!"
+        },
+        {
+          "word": "Alles Gute!",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "كل التمنيات الطيبة!"
+        },
+        {
+          "word": "sich bedanken",
+          "plural": "bedankt sich, hat sich bedankt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يشكر",
+          "example": "Wir möchten uns für die Geschenke bedanken.",
+          "example_ar": "نود أن نشكركم على الهدايا."
+        },
+        {
+          "word": "tausend Dank",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "ألف شكر"
+        },
+        {
+          "word": "die Absage",
+          "plural": "die Absagen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الاعتذار / الرفض / إلغاء الحضور"
+        },
+        {
+          "word": "stehen",
+          "plural": "steht, hat gestanden",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يقف / يكون مكتوباً",
+          "example": "Was steht auf der Karte?",
+          "example_ar": "ماذا مكتوب على البطاقة؟"
+        },
+        {
+          "word": "das Gefühl",
+          "plural": "die Gefühle",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الشعور / الإحساس"
+        },
+        {
+          "word": "die Emotion",
+          "plural": "die Emotionen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "العاطفة / الانفعال"
+        },
+        {
+          "word": "Angst haben",
+          "plural": "hat Angst",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يشعر بالخوف"
+        },
+        {
+          "word": "keine Ahnung haben",
+          "plural": "hat keine Ahnung",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "ليس لديه أدنى فكرة"
+        },
+        {
+          "word": "die Liebe",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الحب"
+        },
+        {
+          "word": "die Freude",
+          "plural": "die Freuden",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الفرحة / السعادة"
+        },
+        {
+          "word": "Das ist ja toll!",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "هذا رائع حقاً!"
+        },
+        {
+          "word": "Ich freue mich riesig.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أنا سعيد جداً."
+        },
+        {
+          "word": "So ein Glück!",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يا له من حظ!"
+        },
+        {
+          "word": "sich streiten",
+          "plural": "streitet sich, hat sich gestritten",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتشاجر / يتجادل بحدّة"
+        },
+        {
+          "word": "das Bedauern",
+          "plural": "-",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الأسف"
+        },
+        {
+          "word": "Das tut mir (wirklich) leid.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أنا آسف (حقاً)."
+        },
+        {
+          "word": "Schade!",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يا للأسف!"
+        },
+        {
+          "word": "Das macht (doch) nichts.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "لا بأس / لا يهم."
+        },
+        {
+          "word": "Es geht schon wieder.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أصبحت أفضل الآن / الأمر على ما يرام الآن."
+        },
+        {
+          "word": "Es ist alles okay.",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "كل شيء على ما يرام."
+        },
+        {
+          "word": "hoffen",
+          "plural": "hofft, hat gehofft",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يأمل"
+        },
+        {
+          "word": "sich langweilen",
+          "plural": "langweilt sich, hat sich gelangweilt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يشعر بالملل"
+        },
+        {
+          "word": "aufregend",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مثير"
+        },
+        {
+          "word": "aufgeregt sein",
+          "plural": "ist aufgeregt",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون متحمساً / متوتراً"
+        },
+        {
+          "word": "ärgerlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مزعج / مُغضب"
+        },
+        {
+          "word": "genervt",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "منزعج / متضايق"
+        },
+        {
+          "word": "gestresst",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "متوتر / تحت ضغط"
+        },
+        {
+          "word": "sauer sein",
+          "plural": "ist sauer",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون غاضباً (عامية)",
+          "example": "Er kommt schon wieder zu spät. Ich bin richtig sauer!",
+          "example_ar": "إنه يتأخر مرة أخرى. أنا غاضب حقاً!"
+        },
+        {
+          "word": "schlimm",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "سيّئ / وخيم"
+        },
+        {
+          "word": "traurig",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "حزين"
+        },
+        {
+          "word": "unangenehm",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "غير مريح / محرج"
+        },
+        {
+          "word": "unglücklich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "تعيس / غير سعيد"
+        },
+        {
+          "word": "sich erinnern",
+          "plural": "erinnert sich, hat sich erinnert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتذكّر",
+          "example": "Erinnerst du dich an Tims Party?",
+          "example_ar": "هل تتذكر حفلة تيم؟"
+        },
+        {
+          "word": "sich gewöhnen",
+          "plural": "gewöhnt sich, hat sich gewöhnt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعتاد",
+          "example": "Ich habe mich an die andere Währung gewöhnt.",
+          "example_ar": "اعتدت على العملة الأخرى."
+        },
+        {
+          "word": "sich austauschen",
+          "plural": "tauscht sich aus, hat sich ausgetauscht",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتبادل الآراء / الأحاديث",
+          "example": "Wir tauschen uns über unsere Erfahrungen aus.",
+          "example_ar": "نتبادل الحديث عن تجاربنا."
+        },
+        {
+          "word": "fallen",
+          "plural": "fällt, ist gefallen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يسقط / يقع",
+          "example": "Das Glas ist auf den Teppich gefallen.",
+          "example_ar": "سقط الكأس على السجادة."
+        },
+        {
+          "word": "sich unterhalten",
+          "plural": "unterhält sich, hat sich unterhalten",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتحدث مع / يتسلّى",
+          "example": "Auf der Party habe ich mich mit Tim unterhalten.",
+          "example_ar": "تحدثت مع تيم في الحفلة."
+        },
+        {
+          "word": "anbieten",
+          "plural": "bietet an, hat angeboten",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعرض / يقدّم عرضاً"
+        },
+        {
+          "word": "aussprechen",
+          "plural": "spricht aus, hat ausgesprochen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينطق / يلفظ"
+        },
+        {
+          "word": "bewundern",
+          "plural": "bewundert, hat bewundert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يُعجب بـ / يُقدّر"
+        },
+        {
+          "word": "sich entscheiden",
+          "plural": "entscheidet sich, hat sich entschieden",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يقرّر / يحسم أمره"
+        },
+        {
+          "word": "unterrichten",
+          "plural": "unterrichtet, hat unterrichtet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يُدرّس"
+        },
+        {
+          "word": "wegfahren",
+          "plural": "fährt weg, ist weggefahren",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يسافر / يغادر (بمركبة)"
+        },
+        {
+          "word": "inzwischen",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "في هذه الأثناء / منذ ذلك الحين"
+        },
+        {
+          "word": "das Frühjahr",
+          "plural": "die Frühjahre",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الربيع"
+        },
+        {
+          "word": "die Zukunft",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المستقبل"
+        },
+        {
+          "word": "das Gegenteil",
+          "plural": "die Gegenteile",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "العكس / الضد"
+        },
+        {
+          "word": "das Wohnheim",
+          "plural": "die Wohnheime",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "السكن الجامعي / سكن الطلاب"
+        },
+        {
+          "word": "der Verkehr",
+          "plural": "-",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المرور / حركة السير"
+        },
+        {
+          "word": "verspätet",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "متأخر"
+        },
+        {
+          "word": "die Währung",
+          "plural": "die Währungen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "العملة"
+        },
+        {
+          "word": "niemand",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "لا أحد"
+        },
+        {
+          "word": "nirgends",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "في أي مكان (لا مكان)"
+        },
+        {
+          "word": "fremd",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "غريب / أجنبي"
+        },
+        {
+          "word": "hilfsbereit",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مستعد للمساعدة"
+        },
+        {
+          "word": "ordentlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مرتّب / منظّم"
+        },
+        {
+          "word": "wahr",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "صحيح / حقيقي"
+        },
+        {
+          "word": "weltweit",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "عالمياً / على مستوى العالم"
+        },
+        {
+          "word": "wenn ..., dann ...",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "إذا ... فإن ... / عندما ... عندئذٍ ...",
+          "example": "Wenn meine Freundin wegfährt, dann bin ich traurig.",
+          "example_ar": "عندما تسافر صديقتي أكون حزيناً."
         }
       ],
       "quiz": [
@@ -3521,6 +5528,551 @@ const GERMAN_A2_DATA = {
           "meaning": "المعجزة",
           "example": "Es grenzt an ein Wunder, dass nichts passiert ist.",
           "example_ar": "إنها أشبه بمعجزة ألا يحدث أي مكروه."
+        },
+        {
+          "word": "das Verkehrsmittel",
+          "plural": "die Verkehrsmittel",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "وسيلة مواصلات",
+          "example": "Ich fahre mit den öffentlichen Verkehrsmitteln.",
+          "example_ar": "أتنقّل بوسائل النقل العام."
+        },
+        {
+          "word": "öffentlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "عام / حكومي"
+        },
+        {
+          "word": "der Fahrer / die Fahrerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "السائق / السائقة"
+        },
+        {
+          "word": "transportieren",
+          "plural": "transportiert, hat transportiert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينقل"
+        },
+        {
+          "word": "die Polizei",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الشرطة"
+        },
+        {
+          "word": "beschützen",
+          "plural": "beschützt, hat beschützt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يحمي"
+        },
+        {
+          "word": "die Sicherheit",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الأمان / الأمن"
+        },
+        {
+          "word": "sich kümmern (um)",
+          "plural": "kümmert sich, hat sich gekümmert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يهتم بـ / يعتني بـ",
+          "example": "Sie kümmert sich um die Patienten.",
+          "example_ar": "هي تعتني بالمرضى."
+        },
+        {
+          "word": "pflegen",
+          "plural": "pflegt, hat gepflegt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يرعى / يمرّض"
+        },
+        {
+          "word": "die Operation",
+          "plural": "die Operationen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "العملية الجراحية"
+        },
+        {
+          "word": "die Straßenreinigung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "تنظيف الشوارع"
+        },
+        {
+          "word": "aufräumen",
+          "plural": "räumt auf, hat aufgeräumt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يرتّب / ينظّف"
+        },
+        {
+          "word": "die Ordnung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "النظام / الترتيب"
+        },
+        {
+          "word": "der Müll",
+          "plural": "-",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "القمامة"
+        },
+        {
+          "word": "leeren",
+          "plural": "leert, hat geleert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يُفرّغ",
+          "example": "Er leert die Mülltonnen.",
+          "example_ar": "هو يفرّغ حاويات القمامة."
+        },
+        {
+          "word": "die Stellenanzeige",
+          "plural": "die Stellenanzeigen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "إعلان وظيفة"
+        },
+        {
+          "word": "sich bewerben",
+          "plural": "bewirbt sich, hat sich beworben",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتقدّم لوظيفة"
+        },
+        {
+          "word": "die Unterlagen",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المستندات / الأوراق (جمع)"
+        },
+        {
+          "word": "die Kenntnis",
+          "plural": "die Kenntnisse",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المعرفة / الإلمام",
+          "example": "Ich habe Italienisch-Kenntnisse.",
+          "example_ar": "لدي معرفة باللغة الإيطالية."
+        },
+        {
+          "word": "die Teilzeit",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الدوام الجزئي"
+        },
+        {
+          "word": "in Teilzeit arbeiten",
+          "plural": "arbeitet, hat gearbeitet",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يعمل بدوام جزئي"
+        },
+        {
+          "word": "die Bezahlung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الأجر / الدفع"
+        },
+        {
+          "word": "der Lohn",
+          "plural": "die Löhne",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الأجر (اليومي / الأسبوعي)"
+        },
+        {
+          "word": "spontan",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "عفوي / فوري",
+          "example": "Ich kann spontan arbeiten.",
+          "example_ar": "أستطيع العمل بشكل فوري."
+        },
+        {
+          "word": "der Bescheid",
+          "plural": "-",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الإخبار / الرد",
+          "example": "Ich gebe Ihnen Bescheid.",
+          "example_ar": "سأخبرك."
+        },
+        {
+          "word": "die Aushilfe",
+          "plural": "die Aushilfen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "عامل مؤقت / مساعد"
+        },
+        {
+          "word": "bedienen",
+          "plural": "bedient, hat bedient",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يخدم / يقدّم الخدمة",
+          "example": "Er bedient die Gäste.",
+          "example_ar": "هو يخدم الضيوف."
+        },
+        {
+          "word": "die Zutat",
+          "plural": "die Zutaten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المكوّن (في وصفة)"
+        },
+        {
+          "word": "die Behörde",
+          "plural": "die Behörden",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الجهة الحكومية"
+        },
+        {
+          "word": "erledigen",
+          "plural": "erledigt, hat erledigt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينجز / يقضي",
+          "example": "Ich muss ein paar Dinge erledigen.",
+          "example_ar": "يجب أن أنجز بعض الأمور."
+        },
+        {
+          "word": "genehmigen",
+          "plural": "genehmigt, hat genehmigt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يوافق على / يصادق على",
+          "example": "Das Amt hat meinen Antrag genehmigt.",
+          "example_ar": "وافقت الدائرة على طلبي."
+        },
+        {
+          "word": "abgeben",
+          "plural": "gibt ab, hat abgegeben",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يسلّم / يقدّم"
+        },
+        {
+          "word": "Angaben prüfen",
+          "plural": "prüft, hat geprüft",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يراجع البيانات"
+        },
+        {
+          "word": "der / die Angestellte",
+          "plural": "die Angestellten",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الموظف / الموظفة"
+        },
+        {
+          "word": "vom Konto Geld abheben",
+          "plural": "hebt ab, hat abgehoben",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يسحب مالاً من الحساب"
+        },
+        {
+          "word": "einen Betrag überweisen",
+          "plural": "überweist, hat überwiesen",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يحوّل مبلغاً"
+        },
+        {
+          "word": "ausgeben",
+          "plural": "gibt aus, hat ausgegeben",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينفق (مالاً)",
+          "example": "Ich habe viel Geld ausgegeben.",
+          "example_ar": "لقد أنفقت مالاً كثيراً."
+        },
+        {
+          "word": "ein Konto eröffnen",
+          "plural": "eröffnet, hat eröffnet",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يفتح حساباً (بنكياً)"
+        },
+        {
+          "word": "die Bankkarte",
+          "plural": "die Bankkarten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "البطاقة المصرفية"
+        },
+        {
+          "word": "der Kredit",
+          "plural": "die Kredite",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "القرض"
+        },
+        {
+          "word": "die Geldbörse",
+          "plural": "die Geldbörsen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المحفظة"
+        },
+        {
+          "word": "leihen",
+          "plural": "leiht, hat geliehen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستعير / يُعير"
+        },
+        {
+          "word": "der Diebstahl",
+          "plural": "die Diebstähle",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "السرقة"
+        },
+        {
+          "word": "melden",
+          "plural": "meldet, hat gemeldet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يبلّغ عن / يسجّل"
+        },
+        {
+          "word": "weg sein",
+          "plural": "ist weg",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون مفقوداً / ضائعاً",
+          "example": "Das Handy war weg.",
+          "example_ar": "كان الهاتف مفقوداً."
+        },
+        {
+          "word": "der Stadtplan",
+          "plural": "die Stadtpläne",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "خريطة المدينة"
+        },
+        {
+          "word": "der Tourist / die Touristin",
+          "plural": "die Touristen / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "السائح / السائحة"
+        },
+        {
+          "word": "der Politiker / die Politikerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "السياسي / السياسية"
+        },
+        {
+          "word": "das Parlament",
+          "plural": "die Parlamente",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "البرلمان"
+        },
+        {
+          "word": "das Gesetz",
+          "plural": "die Gesetze",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "القانون / التشريع"
+        },
+        {
+          "word": "die Verwaltung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الإدارة"
+        },
+        {
+          "word": "das Gebäude",
+          "plural": "die Gebäude",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "المبنى"
+        },
+        {
+          "word": "der Dom",
+          "plural": "die Dome",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الكاتدرائية"
+        },
+        {
+          "word": "die Disco",
+          "plural": "die Discos",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الديسكو / الملهى"
+        },
+        {
+          "word": "bitten",
+          "plural": "bittet, hat gebeten",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يطلب (برجاء)"
+        },
+        {
+          "word": "der Gefallen",
+          "plural": "die Gefallen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المعروف / الخدمة"
+        },
+        {
+          "word": "um einen Gefallen bitten",
+          "plural": "bittet, hat gebeten",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يطلب معروفاً"
+        },
+        {
+          "word": "dringend",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "عاجل / ملحّ",
+          "example": "Es ist dringend.",
+          "example_ar": "الأمر عاجل."
+        },
+        {
+          "word": "das Beste",
+          "plural": "-",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الأفضل"
+        },
+        {
+          "word": "der / die Nächste",
+          "plural": "die Nächsten",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "التالي / القادم"
+        },
+        {
+          "word": "der Fan",
+          "plural": "die Fans",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المشجّع / المعجب"
+        },
+        {
+          "word": "der Daumen",
+          "plural": "die Daumen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الإبهام"
+        },
+        {
+          "word": "drücken",
+          "plural": "drückt, hat gedrückt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يضغط",
+          "example": "Ich drücke dir die Daumen.",
+          "example_ar": "أتمنى لك التوفيق (أضغط لك على الإبهام)."
+        },
+        {
+          "word": "bunt",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "ملوّن"
+        },
+        {
+          "word": "modern",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "عصري / حديث"
+        },
+        {
+          "word": "funktionieren",
+          "plural": "funktioniert, hat funktioniert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعمل / يشتغل"
+        },
+        {
+          "word": "der Gedanke",
+          "plural": "die Gedanken",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الفكرة / الفكر"
+        },
+        {
+          "word": "die Ruhe",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الهدوء / الراحة"
+        },
+        {
+          "word": "die Entspannung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الاسترخاء"
+        },
+        {
+          "word": "neben",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بجانب / إلى جانب",
+          "example": "ein Job neben dem Studium",
+          "example_ar": "وظيفة إلى جانب الدراسة"
+        },
+        {
+          "word": "über",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "عبر / فوق",
+          "example": "über die Grenze fahren",
+          "example_ar": "يعبر الحدود"
+        },
+        {
+          "word": "sich vorstellen",
+          "plural": "stellt sich vor, hat sich vorgestellt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتخيّل / يعرّف بنفسه",
+          "example": "Stell dir das vor!",
+          "example_ar": "تخيّل ذلك!"
+        },
+        {
+          "word": "das Wunder",
+          "plural": "die Wunder",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "المعجزة",
+          "example": "Kein Wunder!",
+          "example_ar": "لا عجب!"
         }
       ],
       "quiz": [
@@ -4182,6 +6734,678 @@ const GERMAN_A2_DATA = {
           "meaning": "بدون مشاكل / بسلاسة",
           "example": "Die Umstellung auf das neue System verlief problemlos.",
           "example_ar": "تم الانتقال إلى النظام الجديد بسلاسة وبدون أي مشاكل."
+        },
+        {
+          "word": "beraten",
+          "plural": "berät, hat beraten",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستشير / يقدّم النصح"
+        },
+        {
+          "word": "klappen",
+          "plural": "klappt, hat geklappt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "ينجح / يسير على ما يرام",
+          "example": "Hier klappt gar nichts!",
+          "example_ar": "لا شيء ينجح هنا!"
+        },
+        {
+          "word": "der Ärger",
+          "plural": "-",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الانزعاج / المتاعب"
+        },
+        {
+          "word": "die Bahn",
+          "plural": "die Bahnen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "القطار / السكة الحديدية"
+        },
+        {
+          "word": "die Zugverbindung",
+          "plural": "die Zugverbindungen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "خط / رحلة القطار (الربط)"
+        },
+        {
+          "word": "der Wagen",
+          "plural": "die Wagen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "العربة / السيارة"
+        },
+        {
+          "word": "die Geschäftsreise",
+          "plural": "die Geschäftsreisen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "رحلة عمل"
+        },
+        {
+          "word": "die Hinfahrt",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "رحلة الذهاب"
+        },
+        {
+          "word": "die Rückfahrt",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "رحلة العودة"
+        },
+        {
+          "word": "zurückkommen",
+          "plural": "kommt zurück, ist zurückgekommen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعود"
+        },
+        {
+          "word": "nur einfach",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "ذهاب فقط (تذكرة)",
+          "example": "Nur einfach, bitte!",
+          "example_ar": "ذهاب فقط من فضلك!"
+        },
+        {
+          "word": "eine Fahrkarte für die Zweite Klasse",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "تذكرة للدرجة الثانية"
+        },
+        {
+          "word": "nebeneinander",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بجانب بعضهما",
+          "example": "zwei Plätze nebeneinander",
+          "example_ar": "مقعدان بجانب بعضهما"
+        },
+        {
+          "word": "der Gang",
+          "plural": "die Gänge",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الممر",
+          "example": "Wo möchten Sie sitzen: am Gang oder am Fenster?",
+          "example_ar": "أين تودّ الجلوس: بجانب الممر أم بجانب النافذة؟"
+        },
+        {
+          "word": "preiswert",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "رخيص / بسعر معقول"
+        },
+        {
+          "word": "die Band",
+          "plural": "die Bands",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الفرقة الموسيقية"
+        },
+        {
+          "word": "der Musiker",
+          "plural": "die Musiker",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الموسيقي"
+        },
+        {
+          "word": "die Sängerin",
+          "plural": "die Sängerinnen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المغنية"
+        },
+        {
+          "word": "das Album",
+          "plural": "die Alben",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الألبوم"
+        },
+        {
+          "word": "fantastisch",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "رائع / خيالي"
+        },
+        {
+          "word": "erleben",
+          "plural": "erlebt, hat erlebt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعيش (تجربة) / يمرّ بـ"
+        },
+        {
+          "word": "der Trainer / die Trainerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المدرّب / المدرّبة",
+          "example": "Sie ist eine professionelle Trainerin.",
+          "example_ar": "هي مدرّبة محترفة."
+        },
+        {
+          "word": "professionell",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "محترف"
+        },
+        {
+          "word": "beruflich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مهنياً / وظيفياً"
+        },
+        {
+          "word": "komplett",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "كامل / تماماً",
+          "example": "Er fängt beruflich komplett neu an.",
+          "example_ar": "هو يبدأ من جديد تماماً في مجاله المهني."
+        },
+        {
+          "word": "der Neuanfang",
+          "plural": "die Neuanfänge",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "بداية جديدة"
+        },
+        {
+          "word": "mehr",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "أكثر / (لم يعد) بعد",
+          "example": "Sie ist selbstständig und hat keinen Chef mehr.",
+          "example_ar": "هي تعمل لحسابها ولم يعد لها مدير."
+        },
+        {
+          "word": "nutzen",
+          "plural": "nutzt, hat genutzt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يستغلّ / يستخدم",
+          "example": "Er nutzt die Chance.",
+          "example_ar": "هو يستغل الفرصة."
+        },
+        {
+          "word": "die Umwelt",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "البيئة"
+        },
+        {
+          "word": "das Plastik",
+          "plural": "-",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "البلاستيك"
+        },
+        {
+          "word": "erfolgreich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "ناجح"
+        },
+        {
+          "word": "das Risiko",
+          "plural": "die Risiken",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "المخاطرة / الخطر",
+          "example": "Das finanzielle Risiko ist groß.",
+          "example_ar": "المخاطرة المالية كبيرة."
+        },
+        {
+          "word": "finanziell",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مالي"
+        },
+        {
+          "word": "der Übersetzer / die Übersetzerin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المترجم / المترجمة"
+        },
+        {
+          "word": "der Chirurg / die Chirurgin",
+          "plural": "die Chirurgen / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الجرّاح / الجرّاحة"
+        },
+        {
+          "word": "das Herz",
+          "plural": "die Herzen",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "القلب"
+        },
+        {
+          "word": "der Oberarzt / die Oberärztin",
+          "plural": "die Oberärzte / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "كبير الأطباء / طبيب استشاري"
+        },
+        {
+          "word": "der Leiter / die Leiterin",
+          "plural": "- / -nen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المدير / رئيس القسم"
+        },
+        {
+          "word": "der Lastwagen",
+          "plural": "die Lastwagen",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الشاحنة"
+        },
+        {
+          "word": "der Lkw",
+          "plural": "die Lkws",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الشاحنة (اختصار Lastkraftwagen)"
+        },
+        {
+          "word": "bereuen",
+          "plural": "bereut, hat bereut",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يندم على",
+          "example": "Ich bereue die Entscheidung nicht.",
+          "example_ar": "لا أندم على القرار."
+        },
+        {
+          "word": "die Freiheit",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الحرية"
+        },
+        {
+          "word": "das Telefonat",
+          "plural": "die Telefonate",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "المكالمة الهاتفية"
+        },
+        {
+          "word": "der Anrufer",
+          "plural": "die Anrufer",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المتّصل"
+        },
+        {
+          "word": "der Anrufbeantworter",
+          "plural": "die Anrufbeantworter",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "جهاز الرد الآلي"
+        },
+        {
+          "word": "sich konzentrieren",
+          "plural": "konzentriert sich, hat sich konzentriert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يركّز"
+        },
+        {
+          "word": "deutlich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "واضح",
+          "example": "Sprechen Sie deutlich!",
+          "example_ar": "تحدّث بوضوح!"
+        },
+        {
+          "word": "das Blatt",
+          "plural": "die Blätter",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "الورقة",
+          "example": "Bitte legen Sie ein Blatt Papier bereit.",
+          "example_ar": "من فضلك جهّز ورقة."
+        },
+        {
+          "word": "hektisch",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "متسرّع / محموم",
+          "example": "Werden Sie nicht hektisch!",
+          "example_ar": "لا تتوتر ولا تتسرّع!"
+        },
+        {
+          "word": "lächeln",
+          "plural": "lächelt, hat gelächelt",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يبتسم"
+        },
+        {
+          "word": "stören",
+          "plural": "stört, hat gestört",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يزعج / يقاطع",
+          "example": "Störe ich?",
+          "example_ar": "هل أزعجك؟"
+        },
+        {
+          "word": "außer Haus sein",
+          "plural": "ist außer Haus",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "يكون خارج المنزل"
+        },
+        {
+          "word": "ausrichten",
+          "plural": "richtet aus, hat ausgerichtet",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يبلّغ (رسالة لشخص)",
+          "example": "Können Sie etwas ausrichten?",
+          "example_ar": "هل يمكنك أن تبلّغه شيئاً؟"
+        },
+        {
+          "word": "zurückrufen",
+          "plural": "ruft zurück, hat zurückgerufen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يعاود الاتصال"
+        },
+        {
+          "word": "der Arbeitstag",
+          "plural": "die Arbeitstage",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "يوم العمل"
+        },
+        {
+          "word": "sich verändern",
+          "plural": "verändert sich, hat sich verändert",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يتغيّر"
+        },
+        {
+          "word": "der Betrieb",
+          "plural": "die Betriebe",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "المنشأة / الشركة"
+        },
+        {
+          "word": "die Fabrik",
+          "plural": "die Fabriken",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "المصنع"
+        },
+        {
+          "word": "die Maschine",
+          "plural": "die Maschinen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الآلة"
+        },
+        {
+          "word": "der Roboter",
+          "plural": "die Roboter",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الروبوت"
+        },
+        {
+          "word": "die Digitalisierung",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الرقمنة / التحوّل الرقمي"
+        },
+        {
+          "word": "virtuell",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "افتراضي"
+        },
+        {
+          "word": "erreichbar",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "يمكن الوصول إليه / متاح",
+          "example": "Ich bin immer erreichbar.",
+          "example_ar": "أنا متاح دائماً."
+        },
+        {
+          "word": "zunehmen",
+          "plural": "nimmt zu, hat zugenommen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يزداد / يكسب وزناً"
+        },
+        {
+          "word": "der Austausch",
+          "plural": "-",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "التبادل"
+        },
+        {
+          "word": "die Zusammenarbeit",
+          "plural": "-",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "التعاون"
+        },
+        {
+          "word": "mithelfen",
+          "plural": "hilft mit, hat mitgeholfen",
+          "gender": "-",
+          "type": "Verb",
+          "meaning": "يساعد / يشارك في المساعدة"
+        },
+        {
+          "word": "fest",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "ثابت / مُحكم",
+          "example": "Ich habe kein festes Büro.",
+          "example_ar": "ليس لدي مكتب ثابت."
+        },
+        {
+          "word": "befristet",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "محدّد المدة",
+          "example": "Er hat einen befristeten Vertrag.",
+          "example_ar": "لديه عقد محدد المدة."
+        },
+        {
+          "word": "mobil",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "متنقّل / محمول"
+        },
+        {
+          "word": "das Wissen",
+          "plural": "-",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "المعرفة"
+        },
+        {
+          "word": "die Kompetenz",
+          "plural": "die Kompetenzen",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الكفاءة"
+        },
+        {
+          "word": "lebenslang",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "مدى الحياة"
+        },
+        {
+          "word": "problemlos",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "بلا مشاكل"
+        },
+        {
+          "word": "die Hausarbeit",
+          "plural": "die Hausarbeiten",
+          "gender": "die",
+          "type": "Nomen",
+          "meaning": "الأعمال المنزلية / بحث دراسي"
+        },
+        {
+          "word": "in Ordnung",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "حسناً / على ما يرام"
+        },
+        {
+          "word": "also gut",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "حسناً إذاً"
+        },
+        {
+          "word": "auf keinen Fall",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بأي حال من الأحوال لا"
+        },
+        {
+          "word": "nun",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "الآن / إذاً",
+          "example": "Was machen wir nun?",
+          "example_ar": "ماذا نفعل الآن؟"
+        },
+        {
+          "word": "möglich",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "ممكن",
+          "example": "Ist das möglich?",
+          "example_ar": "هل هذا ممكن؟"
+        },
+        {
+          "word": "häufig",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "متكرر / كثيراً"
+        },
+        {
+          "word": "komisch",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "غريب / مضحك"
+        },
+        {
+          "word": "unnötig",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "غير ضروري"
+        },
+        {
+          "word": "unter",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "تحت / باسم",
+          "example": "Reservierungen unter ...",
+          "example_ar": "حجوزات باسم ..."
+        },
+        {
+          "word": "einige",
+          "plural": "-",
+          "gender": "-",
+          "type": "Ausdruck",
+          "meaning": "بعض / عدّة"
+        },
+        {
+          "word": "schwanger",
+          "plural": "-",
+          "gender": "-",
+          "type": "Adjektiv",
+          "meaning": "حامل"
+        },
+        {
+          "word": "das Bier",
+          "plural": "die Biere",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "البيرة"
+        },
+        {
+          "word": "der Schritt",
+          "plural": "die Schritte",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "الخطوة"
+        },
+        {
+          "word": "der Feiertag",
+          "plural": "die Feiertage",
+          "gender": "der",
+          "type": "Nomen",
+          "meaning": "العطلة الرسمية"
+        },
+        {
+          "word": "das Jahrhundert",
+          "plural": "die Jahrhunderte",
+          "gender": "das",
+          "type": "Nomen",
+          "meaning": "القرن"
         }
       ],
       "quiz": [

@@ -771,6 +771,7 @@ body {
 .gender-das { background: var(--das-bg); color: var(--das-color); border: 1px solid rgba(5,150,105,0.2); }
 .gender-verb { background: #f3e8ff; color: #7c3aed; }
 .gender-adj { background: #ffedd5; color: #ea580c; }
+.gender-other { background: #e2e8f0; color: #475569; }
 
 .vocab-word {
   font-family: var(--font-german);
